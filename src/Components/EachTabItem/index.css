@@ -1,0 +1,38 @@
+.active-tab {
+    color: #fec653;
+    text-decoration: underline;
+    font-size: 16px;
+    padding-right: 5px;
+  }
+  @media (min-width: 576px) {
+    .active-tab {
+      font-size: 20px;
+    }
+  }
+  @media (min-width: 768px) {
+    .active-tab {
+      font-size: 24px;
+    }
+  }
+  .tab {
+    color: #ffffff;
+    font-size: 16px;
+    padding-right: 5px;
+  }
+  @media (min-width: 576px) {
+    .tab {
+      font-size: 20px;
+    }
+  }
+  @media (min-width: 768px) {
+    .tab {
+      font-size: 24px;
+    }
+  }
+  .button {
+    background-color: transparent;
+    outline: none;
+    border: none;
+    cursor: pointer;
+  }
+  

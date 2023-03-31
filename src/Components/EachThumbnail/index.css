@@ -1,0 +1,34 @@
+.thumbnail-img {
+    width: 100%;
+  }
+  .each-list {
+    width: 69px;
+    height: 69px;
+  }
+  @media (min-width: 576px) {
+    .each-list {
+      width: 120px;
+      height: 120px;
+      margin-bottom: 10px;
+    }
+  }
+  @media (min-width: 768px) {
+    .each-list {
+      width: 150px;
+      height: 140px;
+      margin-bottom: 10px;
+    }
+  }
+  @media (min-width: 992px) {
+    .each-list {
+      width: 180px;
+      height: 180px;
+    }
+  }
+  @media (min-width: 1200px) {
+    .each-list {
+      width: 200px;
+      height: 200px;
+    }
+  }
+  
